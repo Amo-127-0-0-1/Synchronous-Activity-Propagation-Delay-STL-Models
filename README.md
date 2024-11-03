@@ -1,6 +1,8 @@
 # Synchronous Activity Propagation Delay (STL Models)
 
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14031028.svg)](https://doi.org/10.5281/zenodo.14031027)
+
 
 This repository contains the stereolithography (STL) file that describes the surface geometry of the three-dimensional micron scale mold for preparation of modular neuronal culture device, as described in publication **"Synchronous Activity Propagation Delay in Modular Neuronal Networks"**. Details of the design can be found in the associated publications.
 
