@@ -2,7 +2,8 @@
 
 
 
-This repository contains the stereolithography (STL) file that describes the surface geometry of the three-dimensional micron scale mold for preparation of modular neuronal culture device, as described in publication **"Synchronous Activity Propagation Delay in Modular Neuronal Networks"**. 
+This repository contains the stereolithography (STL) file that describes the surface geometry of the three-dimensional micron scale mold for preparation of modular neuronal culture device, as described in publication **"Synchronous Activity Propagation Delay in Modular Neuronal Networks"**. Details of the design can be found in the associated publications.
+
 
 ![image](https://github.com/Amo-127-0-0-1/Synchronous-Activity-Propagation-Delay-STL-Models-/blob/main/images/32channels_render.png)
 **3D render of the micro mold with 32 unidirectional microchannels**
